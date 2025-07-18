@@ -20,3 +20,8 @@ Simple and responsive UI
 
 Scalable and lightweight architecture
 
+
+
+<img width="720" height="268" alt="image" src="https://github.com/user-attachments/assets/ec9eeb97-aad6-471b-97d5-067853fa14c6" />
+
+
